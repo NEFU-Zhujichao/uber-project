@@ -1,0 +1,16 @@
+GET http://localhost:8080/api/order
+
+###
+GET localhost/api/user
+
+###
+GET localhost/order-api/order
+
+###
+GET localhost/api/order
+
+###
+GET localhost/api/orders
+
+###
+GET localhost/api/orders2
